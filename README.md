@@ -1,6 +1,6 @@
 # Hi, I'm Shobhit Das 👋
 
-**Data Science Intern @ Berger Paints British Paints Division | Data Enthusiast | Open Source Contributor**
+**Data Analysr Intern @ Berger Paints British Paints Division | Summer Training @IIT Bombay | Intern @STPI MeitY | GGSIPU'25 | Data Analyst**
 
 ---
 
