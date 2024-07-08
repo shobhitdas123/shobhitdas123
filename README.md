@@ -1,4 +1,3 @@
-# SHOBHIT
 # Hi, I'm Shobhit Das 👋
 
 **Data Science Intern @ Berger Paints British Paints Division | Data Enthusiast | Open Source Contributor**
